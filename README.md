@@ -1,1 +1,1 @@
-# Day-3
+This repository is for Day - 3 Task.
