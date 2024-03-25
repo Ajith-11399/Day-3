@@ -38,7 +38,7 @@ list.onload = function () {
     var result = JSON.parse(data);
     for (var i = 0; i < result.length; i++) {
         console.log(
-            "Country : " + " " + result2[i].name.common +",",
+            "Country : " + " " + result[i].name.common +",",
             result[i].flags.png);
     }
 }
